@@ -1,4 +1,16 @@
-# drachen-forum
-## Meddl meine gesannten freunde. Ich versuche nur mit KI ein Drachenlord Archiv/Forum zu basteln. Hoffe es geht etzadla aber dauert save a paar wochne.
-### Ich bitte wenn ihr pobleme habt mich nicht anzuzeigen, schreibt erstmal.
-<img width="814" height="532" src="https://www.comicschau.de/wp-content/uploads/2025/02/Screenshot-2025-02-05-at-19-03-08-Drachenlord-ROOMTOUR-Keller-u.-Scheune-YouTube1.png" class="attachment-bunyad-main size-bunyad-main no-lazy skip-lazy wp-post-image" alt="drachenlord comeback" sizes="(max-width: 814px) 100vw, 814px" title="Schanzenfest 2025: Emskirchen stellt hohe Bußgelder in Aussicht" decoding="async" srcset="https://www.comicschau.de/wp-content/uploads/2025/02/Screenshot-2025-02-05-at-19-03-08-Drachenlord-ROOMTOUR-Keller-u.-Scheune-YouTube1.png 1229w, https://www.comicschau.de/wp-content/uploads/2025/02/Screenshot-2025-02-05-at-19-03-08-Drachenlord-ROOMTOUR-Keller-u.-Scheune-YouTube1-1200x674.png 1200w">
+# Drachen Forum — MVP
+
+Dieses Branch enthält ein kleines Next.js + Prisma MVP‑Scaffold für ein Forum mit Video‑Upload‑Demo.
+
+Quickstart (lokal):
+
+1. Node-Version >=16 empfohlen
+2. npm install
+3. cp .env.example .env && edit .env (NEXTAUTH_SECRET setzen)
+4. npx prisma generate
+5. npx prisma migrate dev --name init
+6. npm run dev
+
+Uploads: das Demo speichert hochgeladene Dateien unter /public/uploads.
+
+Deployment: Für Produktion empfehle ich Postgres + S3/MinIO. Es gibt eine docker-compose.yml für lokale MinIO falls gewünscht.
