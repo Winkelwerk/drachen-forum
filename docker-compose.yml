@@ -1,0 +1,27 @@
+version: '3.8'
+services:
+  app:
+    build: .
+    command: npm run dev
+    volumes:
+      - ./:/app
+      - /app/node_modules
+      - ./public/uploads:/app/public/uploads
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=development
+      - DATABASE_URL=file:./dev.db
+      - UPLOAD_DIR=./public/uploads
+  minio:
+    image: minio/minio
+    ports:
+      - "9000:9000"
+    environment:
+      - MINIO_ROOT_USER=minioadmin
+      - MINIO_ROOT_PASSWORD=minioadmin
+    command: server /data
+    volumes:
+      - minio-data:/data
+volumes:
+  minio-data:

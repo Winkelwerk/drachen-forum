@@ -1,0 +1,4 @@
+/* Minimal styles */
+body { font-family: system-ui, sans-serif; }
+input, textarea { width: 100%; margin: 5px 0; padding: 6px; }
+button { padding: 6px 12px }
