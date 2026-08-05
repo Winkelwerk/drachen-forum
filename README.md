@@ -1,2 +1,4 @@
 # drachen-forum
-Meddl meine gesannten freunde. Ich versuche nur mit KI ein Drachenlord Archiv/Forum zu basteln. Hoffe es geht etzadla aber dauert save a paar wochne.
+## Meddl meine gesannten freunde. Ich versuche nur mit KI ein Drachenlord Archiv/Forum zu basteln. Hoffe es geht etzadla aber dauert save a paar wochne.
+### Ich bitte wenn ihr pobleme habt mich nicht anzuzeigen, schreibt erstmal.
+<img width="814" height="532" src="https://www.comicschau.de/wp-content/uploads/2025/02/Screenshot-2025-02-05-at-19-03-08-Drachenlord-ROOMTOUR-Keller-u.-Scheune-YouTube1.png" class="attachment-bunyad-main size-bunyad-main no-lazy skip-lazy wp-post-image" alt="drachenlord comeback" sizes="(max-width: 814px) 100vw, 814px" title="Schanzenfest 2025: Emskirchen stellt hohe Bußgelder in Aussicht" decoding="async" srcset="https://www.comicschau.de/wp-content/uploads/2025/02/Screenshot-2025-02-05-at-19-03-08-Drachenlord-ROOMTOUR-Keller-u.-Scheune-YouTube1.png 1229w, https://www.comicschau.de/wp-content/uploads/2025/02/Screenshot-2025-02-05-at-19-03-08-Drachenlord-ROOMTOUR-Keller-u.-Scheune-YouTube1-1200x674.png 1200w">
