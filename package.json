@@ -18,6 +18,11 @@
     "next-auth": "^4.0.0",
     "@next-auth/prisma-adapter": "1.0.4",
     "bcrypt": "5.1.0",
-    "formidable": "2.1.2"
+    "formidable": "^3.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.0",
+    "@types/react": "^18.2.0",
+    "@types/node": "^20.0.0"
   }
 }
